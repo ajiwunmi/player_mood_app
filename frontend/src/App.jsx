@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import PlayerView from "./pages/PlayerView";
+import PlayerView from "./pages/_1PlayerView";
 import CoachView from "./pages/CoachView";
 
 export default function App() {
